@@ -9,9 +9,9 @@
 #---------------------------------------------#
 #  Required parameters                        #
 #---------------------------------------------#
-query="KVLEHXXXV"
-atleast_matchAA=4
-MHCallele="HLA-A02:01"
+query="EVDPIXXXY"
+atleast_matchAA=5
+MHCallele="HLA-A01:01"
 
 #---------------------------------------------#
 #  prepare files                              #
