@@ -1,0 +1,26 @@
+,proteinID,GeneName,Peptide,matchCount,Tissue,IHC_Level_max,IHC_Level_sum,nTPM_mean,HLA,Score_EL,Rank_EL,BindLevel
+0,ABCG4_HUMAN,ABCG4,EVDPIESHT,5,retina,3.0,3.0,2.8523809523809525,,,,
+1,CBARP_HUMAN,CBARP,EPDPILDNY,5,,,0.0,0.7380952380952381,HLA-A*01:01,0.3814990,0.416,SB
+2,COEA1_HUMAN,COL14A1,EVDPITTFP,5,"colon,duodenum,thyroid gland,rectum,pancreas,lung,kidney,lymph node,small intestine,liver",3.0,17.0,32.36190476190476,,,,
+3,FGD5_HUMAN,FGD5,EVGPIFHLY,5,"colon,kidney,breast,duodenum,liver,adrenal gland,small intestine,lymph node,spleen,bone marrow,heart muscle,skeletal muscle,smooth muscle,lung,adipose tissue,pancreas,thyroid gland,rectum",2.0,33.0,8.361904761904762,HLA-A*01:01,0.6605900,0.173,SB
+4,GBRG1_HUMAN,GABRG1,PVDPINMEY,5,,,0.0,0.1619047619047619,HLA-A*01:01,0.9829000,0.009,SB
+5,HEPH_HUMAN,HEPH,AVDPIKDMY,5,"smooth muscle,lymph node,breast,thyroid gland,rectum,bone marrow,pancreas,spleen,skeletal muscle,lung,liver,duodenum,adrenal gland,adipose tissue,kidney,colon,small intestine,heart muscle",2.0,28.0,25.823809523809523,HLA-A*01:01,0.9804680,0.010,SB
+6,INPP_HUMAN,INPP1,WVDPIDSTY,5,"duodenum,colon,bone marrow,adrenal gland,pancreas,thyroid gland,lung,liver,rectum",3.0,16.0,24.32857142857143,HLA-A*01:01,0.9733010,0.014,SB
+7,ITA8_HUMAN,ITGA8,EVKPILNYY,5,kidney,3.0,3.0,6.39047619047619,HLA-A*01:01,0.3176760,0.512,WB
+8,LONM_HUMAN,LONP1,EVDKIGRGY,5,"adipose tissue,lymph node,lung,spleen,kidney,skeletal muscle,smooth muscle,colon,duodenum,rectum,adrenal gland,bone marrow,pancreas,breast,heart muscle,liver,small intestine",3.0,37.0,40.97142857142857,HLA-A*01:01,0.8093750,0.094,SB
+9,MAGA2_HUMAN,MAGEA2,EVVPISHLY,5,,,0.0,0.0,HLA-A*01:01,0.6400240,0.189,SB
+10,MAGA3_HUMAN,MAGEA3,EVDPIGHLY,6,,,0.0,0.009523809523809525,HLA-A*01:01,0.9962220,0.002,SB
+11,MAGA4_HUMAN,MAGEA4,EVDPASNTY,5,,,0.0,0.03333333333333333,HLA-A*01:01,0.9819820,0.009,SB
+12,MAGA6_HUMAN,MAGEA6,EVDPIGHVY,6,,,0.0,0.014285714285714287,HLA-A*01:01,0.9881730,0.006,SB
+13,MAGA8_HUMAN,MAGEA8,EVDPAGHSY,5,,,0.0,0.009523809523809525,HLA-A*01:01,0.9860680,0.007,SB
+14,MAGA9_HUMAN,MAGEA9,EVDPAGHSY,5,,,0.0,0.0,HLA-A*01:01,0.9860680,0.007,SB
+15,MAGAB_HUMAN,MAGEA11,EVDPTSHSY,5,,,0.0,0.004761904761904762,HLA-A*01:01,0.9922300,0.004,SB
+16,MAGBG_HUMAN,MAGEB16,EVDPTTHCY,5,,,0.0,0.0,HLA-A*01:01,0.9929470,0.004,SB
+17,MAGBI_HUMAN,MAGEB18,EVDPIRHYY,6,,,0.0,0.0,HLA-A*01:01,0.9871750,0.006,SB
+18,S2546_HUMAN,SLC25A46,EVLPINTQY,5,"lung,pancreas,liver,colon,breast,duodenum,kidney,adrenal gland,lymph node,thyroid gland,small intestine,smooth muscle,rectum",3.0,26.0,22.723809523809525,HLA-A*01:01,0.4305540,0.362,SB
+19,SEPR_HUMAN,FAP,EVDEITLWY,5,"breast,thyroid gland,lung,smooth muscle,colon,heart muscle,kidney,skeletal muscle,lymph node,rectum",3.0,17.0,3.857142857142857,HLA-A*01:01,0.9658850,0.019,SB
+20,SH2D3_HUMAN,SH2D3C,EVDPIRKPE,5,"spleen,bone marrow,lymph node,heart muscle,kidney",3.0,10.0,18.1,,,,
+21,SLC31_HUMAN,SLC3A1,EVDPIFGTM,5,"pancreas,small intestine,duodenum,colon,kidney,liver",3.0,15.0,57.528571428571425,HLA-A*01:01,0.1815050,0.813,WB
+22,SOAT1_HUMAN,SOAT1,EVDHIRTIY,5,"adrenal gland,duodenum,pancreas,lung,small intestine,kidney",3.0,14.0,20.114285714285714,HLA-A*01:01,0.8966850,0.056,SB
+23,SYGP1_HUMAN,SYNGAP1,EVDPIKCTA,5,"adrenal gland,kidney,colon",2.0,4.0,7.114285714285715,,,,
+24,TITIN_HUMAN,TTN,ESDPIVAQY,5,"heart muscle,skeletal muscle",3.0,5.0,52.595238095238095,HLA-A*01:01,0.9957640,0.002,SB
